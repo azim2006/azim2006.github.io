@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Azim Gourani Insuarance
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Protect your loved ones from an uncertain future
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Azim Gourani Insurance Services
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We help you with protecting all your loved ones and your assets. 
