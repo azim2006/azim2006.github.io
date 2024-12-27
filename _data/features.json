@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Life Insurance",
+    "description": "Protect your life",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Life Insurance",
-    "description": "Protect your life",
+    "title": "Disability Insurance",
+    "description": "Do not compromise your lifestyle in case of uncertainity",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Disability Insurance",
-    "description": "Do not compromise your lifestyle in case of uncertainity",
+    "title": "Travel Insurance",
+    "description": "Protect your trips from uncertainity",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
