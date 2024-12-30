@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Insurance Services for all your needs
 
-Protect all your assests with tailor made solutions which fit your budget and lifestyle.
+Protect all your assets with tailor made solutions which fit your budget and lifestyle.
