@@ -3,10 +3,10 @@ permalink: pretty
 title: 'Azim Gourani'
 
 logo:
-  mobile: "images/logo/InsuranceLogo.png"
+  mobile: "images/logo/InLogo.jpg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/lInsuranceLogo.png"
+  desktop: "images/logo/InsuranceLogo.png"
   desktop_height: "32px"
   desktop_width: "120px"
 
