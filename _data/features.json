@@ -1,7 +1,7 @@
 [
   {
-    "title": "Life Insurance",
-    "description": "Protect your life",
+    "title": "FHSA",
+    "description": "The First Home Savings Account (FHSA) is a Canadian registered account for first-time homebuyers, combining RRSP tax-deductible contributions with TFSA tax-free withdrawals. It has an annual limit of $8,000 and a lifetime limit of $40,000, with unused contribution room carried forward. Funds can be invested and withdrawn tax-free for a qualifying home purchase.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Disability Insurance",
-    "description": "Do not compromise your lifestyle in case of uncertainity",
+    "title": "TFSA",
+    "description": "The Tax-Free Savings Account (TFSA) is a flexible investment and savings vehicle available to Canadian residents. It allows individuals to earn tax-free investment income and withdrawals, making it an excellent tool for achieving various financial goals.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,26 @@
     }
   },
   {
-    "title": "Travel Insurance",
-    "description": "Protect your trips from uncertainity",
+    "title": "RRSP",
+    "description": "The Registered Retirement Savings Plan (RRSP) is a Canadian government-registered account designed to help individuals save for retirement. Contributions are tax-deductible, reducing taxable income for the year, and investments grow tax-free. Withdrawals are taxed as income, typically at a lower rate during retirement. Contribution limits are based on earned income, up to a maximum set annually. Unused room carries forward, and funds can also be used for the Home Buyers’ Plan (HBP) or Lifelong Learning Plan (LLP). The RRSP is ideal for long-term retirement savings with tax advantages.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "RESP",
+    "description": "The Registered Education Savings Plan (RESP) is a Canadian savings account to help parents save for a child’s post-secondary education. Contributions grow tax-free, and the government provides grants like the Canada Education Savings Grant (CESG) to boost savings. Withdrawals for education are taxed in the student’s hands, typically at a low rate. Ideal for long-term education savings.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Non Registered Investments",
+    "description": " A Non-Registered Investment Account is a taxable account in Canada for holding various investments like stocks, bonds, and mutual funds. It has no contribution limits, but earnings (interest, dividends, and capital gains) are subject to tax. Ideal for flexible savings beyond registered accounts.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
