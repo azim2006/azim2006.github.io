@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Azim Gourani Benefits and Insurance Advisor
+# Azim Gourani Investment and Insurance Advisor
 
 We provide solutions to safeguard your loved ones and protect your assets.
 
