@@ -2,7 +2,7 @@
 title: Azim Gourani Insuarance
 layout: home
 description: Protect your loved ones from an uncertain future
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/homepage.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
