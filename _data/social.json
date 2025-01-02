@@ -1,17 +1,12 @@
 [
   {
-      "name": "Facebook",
-      "link": "https://facebook.com",
-      "image": "images/social/facebook.svg"
-  },
-  {
       "name": "Email",
       "link": "mailto:azim.gourani@gmail.com ",
       "image": "images/social/email.svg"
   },
   {
       "name": "Instagram",
-      "link": "https://instagram.com",
+      "link": "https://instagram.com/azim.gourani",
       "image": "images/social/instagram.svg"
   }
 ]
